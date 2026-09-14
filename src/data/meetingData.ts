@@ -17,7 +17,7 @@ export const meetingMetadata: MeetingMetadata = {
     { name: 'นางภัทรินทร์ อภัยศรี (น้องริน)', position: 'นักวิชาการศึกษาชำนาญการ', status: 'present' },
     { name: 'นางภาวลินทร์ บุบผาจันทโท', position: 'นักวิชาการศึกษาชำนาญการ', status: 'present' },
     { name: 'นายวิเชียร ธนพัชรวิณ (พี่กี้)', position: 'นักวิชาการศึกษาชำนาญการ', status: 'present' },
-    { name: 'นางสาวนงนุชตรา ศรีจันทร์ (น้องชมพู่)', position: 'นักวิชาการศึกษาปฏิบัติการ', status: 'present' },
+    { name: 'นางสาวรุ่งรดา ศรีจันทร์ (น้องชมพู่)', position: 'นักวิชาการศึกษาปฏิบัติการ', status: 'present' },
     { name: 'นายอิทธิเดช (น้องเปิ้ล)', position: 'นักวิชาการศึกษา (งานลูกเสือ)', status: 'present' },
     { name: 'นายทัศนวิน ธนพัชรวินทร์', position: 'เจ้าพนักงานธุรการปฏิบัติงาน', status: 'present' },
   ],
@@ -31,7 +31,7 @@ export const speakers: Speaker[] = [
   { id: 'rin', name: 'นางภัทรินทร์ (น้องริน)', role: 'งาน อพ.สธ. / ปพ.3 ออนไลน์ / คณะกรรมการสถานศึกษา / ทุน', avatarColor: 'bg-indigo-700' },
   { id: 'pawarin', name: 'นางภาวลินทร์ บุบผาจันทโท', role: 'งานส่งเสริมสุขภาพ / โภชนาการอาหารกลางวัน / การศึกษา ม.12', avatarColor: 'bg-teal-700' },
   { id: 'kee', name: 'นายวิเชียร ธนพัชรวิณ (พี่กี้)', role: 'งานรับนักเรียน / สภานักเรียน / ธนาคารหน่วยกิต Credit Bank / วุฒิ', avatarColor: 'bg-purple-700' },
-  { id: 'chompoo', name: 'นางสาวนงนุชตรา ศรีจันทร์ (ชมพู่)', role: 'งาน กสศ. / CCT ปัจจัยพื้นฐานนักเรียนยากจน / สกร. / สารบรรณกลุ่ม', avatarColor: 'bg-pink-700' },
+  { id: 'chompoo', name: 'นางสาวรุ่งรดา ศรีจันทร์ (ชมพู่)', role: 'งาน กสศ. / CCT ปัจจัยพื้นฐานนักเรียนยากจน / สกร. / สารบรรณกลุ่ม', avatarColor: 'bg-pink-700' },
   { id: 'tatsanawin', name: 'นายทัศนวิน ธนพัชรวินทร์', role: 'เจ้าพนักงานธุรการปฏิบัติงาน', avatarColor: 'bg-cyan-700' },
 ];
 
